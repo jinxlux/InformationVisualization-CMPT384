@@ -1,9 +1,8 @@
 <!-- xudong Li, xul395, 11206927 -->
 <!-- luohan du, lud380,11201129 -->
 
-Unzip the CMPT384-2019-Team 19
-Dashboard.jpg is fot the first requirement
-Questions.pptx is for the second requirement
+Dashboard.jpg is for different designing plans
+Questions.pptx is for questions & answers of the different plans
 
 parallelC.html is for the third requirement, which is an implementation.
 It uses d3.parcoords.js & d3.parcoords.css
@@ -15,6 +14,7 @@ For lunching, enter command "python -m http.server 8888" in linux/Mac terminal,
 and the working dictionary should contains all implementation files and
 t.csv. In a browser(like google), type "http://0.0.0.0:8888/parallelC.html" in
 address field. Press Enter, a parallel coordinate should be shown.
+You can also check the result at http://parallelvisualization.ml/ (It could be slow due to the huge data)
 You can use brushing, reording for the parallel coordinate.
 The color is based on the gender at first (red=women,blue=men).
 opacity is 0.1 for each athletes, so we can get information from
