@@ -3,8 +3,8 @@
 #### Participants:
 xudong Li & luohan du
 #### Introduction of different files
-> Dashboard.jpg is for different designing plans
-Questions.pptx is for questions & answers of the different plans
+> Dashboard.jpg is for different designing plans   
+> Questions.pptx is for questions & answers of the different plans
 
 >parallelC.html is for the third requirement, which is an implementation.
 
