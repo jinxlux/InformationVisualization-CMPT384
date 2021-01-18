@@ -25,4 +25,4 @@ address field. Press Enter, a parallel coordinate should be shown.
 #### Usage
 >+ You can use brushing, reording for the parallel coordinate.The color is based on the gender at first. Opacity is 0.1 for each athletes, so you can get information from how clear a color shown.
 >+ By pressing the dimension labels except ID, you can change the color base. 
->+ Pressing labels will also let balls shown at the bottom of parallel coordinate.Size of balls are based on the number of athletes who win an honor belongs to that category. Colors for balls are same as colors which represent that dimension in parallel coordinate.
+>+ Pressing labels will also let balls shown at the bottom of parallel coordinate.Size of balls are based on the number of athletes who win an honor belongs to that category. Colors for balls are same as the color which represent that dimension in parallel coordinate.
