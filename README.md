@@ -19,8 +19,6 @@ xudong Li & luohan du
 > 2. Enter command "python -m SimpleHTTPServer 8001" in linux/Mac terminal
 > 3. Type "http://localhost:8001/parallelC.html" in
 address field. Press Enter, a parallel coordinate should be shown.
-#### Check the result in Internet
->You can also check the result at http://parallelvisualization.ml/ (It could be slow due to the huge data)
 
 #### Usage
 >+ You can use brushing, reording for the parallel coordinate.The color is based on the gender at first. Opacity is 0.1 for each athletes, so you can get information from how clear a color shown.
